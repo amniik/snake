@@ -13,3 +13,5 @@ To run integration test:
 To run it interactively:  
 `make interactive-snake`  
 ` ./interactive-snake`
+
+![Game Play](doc/game_play.png)
