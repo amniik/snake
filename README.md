@@ -1,6 +1,6 @@
 # Snake
 
-This project is done as a part of [computer architecture course](https://inst.eecs.berkeley.edu/~cs61c/sp22/projects/proj1/) in Berkeley University. Some advanced C programming concepts like memory management are exercised in this project.
+This project is popular snake game. Some advanced C programming concepts like memory management are exercised in this project.
 
 ## Test
 To run unit tests:  
